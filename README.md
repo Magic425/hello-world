@@ -1,2 +1,5 @@
 # hello-world
-It says "hello world" when you run it.
+
+Hello!
+
+I'm Alise Wang and I like cats. I enjoy a bit of reading here and there.
